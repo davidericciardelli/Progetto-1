@@ -1,0 +1,1 @@
+Il traffico in http a differenza di quello il https viene trasmesso in chiaro e ci è quindi possibile vedere i dati della richiesta a differenza di quello https che essendo criptato nasconde i dati
